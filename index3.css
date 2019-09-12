@@ -1,0 +1,19 @@
+/* Create a table with 4 columns and 6 rows. Put the text "jQuery" in each cell/box.
+Add a button outside of that table.
+When that button is clicked set the background color of every other row to grey. */
+
+#table_stuff {
+    height: 100%;
+    text-align: center;
+    display:grid;
+    grid-template-columns: 17.5% 1fr 17.5%;
+    grid-template-rows: 1fr 50% 1fr;
+}
+
+#container {
+  height: 100%;
+  text-align: center;
+  display:grid;
+  grid-template-columns: 17.5% 1fr 17.5%;
+  grid-template-rows: 1fr 50% 1fr;
+}
