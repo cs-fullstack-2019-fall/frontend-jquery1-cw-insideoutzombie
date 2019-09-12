@@ -1,0 +1,17 @@
+.text_red {
+  color: red;
+}
+
+.text_blue {
+  color: blue;
+}
+
+.text_side1 {
+  color: white;
+  background-color: green;
+}
+
+.text_side2 {
+  color: pink;
+  background-color: orange;
+}
